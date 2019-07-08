@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SubmitApk</string>
+    <string name="detail">Detail</string>
+
+    <string name="cpu0">Intel Core i7</string>
+    <string name="vga0">Nvidia GeForce RTX 2060 – GeForce GTX 2080 Max-Q (8GB GDDR6 VRAM)</string>
+    <string name="ram0">8GB – 24GB</string>
+    <string name="screen0">17.3-inch FHD (1,920 x 1,080) 144Hz panel with G-Sync</string>
+
+    <string name="cpu1">Intel Core i7</string>
+    <string name="vga1">Nvidia GeForce GTX 1060 – Nvidia GeForce GTX 1070 (8GB GDDR5X VRAM, Max-Q)</string>
+    <string name="ram1">16GB – 32GB</string>
+    <string name="screen1">15.6-inch FHD (1,920 x 1,080) anti-glare, wide-view 144Hz panel</string>
+
+    <string name="cpu2">Intel Core i7-8750H – Intel Core i7-9750H</string>
+    <string name="vga2">Nvidia GeForce GTX 1060 (6GB GDDR6 VRAM) – Nvidia GeForce RTX 2080 Max-Q (8GB GDDR6 VRAM) </string>
+    <string name="ram2">16GB</string>
+    <string name="screen2">15.6-inch FHD (1,920 x 1,080) 144Hz – OLED 4K (3,840 x 2,160) Touch 60Hz</string>
+
+    <string name="cpu3">Intel Core i7-8750H</string>
+    <string name="vga3">Nvidia GeForce RTX 2060 (6GB GDDR6 VRAM) – RTX 2070 (Max-Q 8GB)</string>
+    <string name="ram3">16GB – 32GB</string>
+    <string name="screen3">15.6-inch FHD (1,920 x 1,080) Nvidia G-Sync 144 Hz</string>
+
+    <string name="cpu4">Up to 8th-generation Intel Core i9</string>
+    <string name="vga4">Nvidia GeForce GTX 2070 (8GB GDDR6) – Nvidia GeForce GTX 2080 with 8GB GDDR6</string>
+    <string name="ram4">Up to 32GB</string>
+    <string name="screen4">17.3-inch FHD (1,920x1,080) – UHD (3,840x2,160)</string>
+
+    <string name="cpu5">Intel Core i7-i9</string>
+    <string name="vga5">Nvidia GeForce GTX 1080 (8GB GDDR5X VRAM) </string>
+    <string name="ram5">64GB </string>
+    <string name="screen5">17.3-inch FHD (1,920 x 1,080)144Hz</string>
+
+</resources>
